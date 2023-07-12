@@ -9,8 +9,8 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
-  color: #364261;
+  font-family: "imperial", sans-serif;
+  color: #000000;
 }
 
 a {
@@ -65,7 +65,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 997;
   transition: all 0.5s;
   height: 60px;
-  background: #088f8f;
+  background: #1e517b;
   box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.12);
 }
 #header .logo h1 {
@@ -486,7 +486,7 @@ section {
   display: block;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
-  color: #1e517b;
+  color: #000000;
 }
 .skills .progress .skill .val {
   float: right;
@@ -499,7 +499,7 @@ section {
   width: 1px;
   height: 10px;
   transition: 0.9s;
-  background-color: #dd5a92;
+  background-color: #109a48;
 }
 
 /*--------------------------------------------------------------
@@ -510,25 +510,25 @@ section {
   font-weight: 500;
   margin-top: 20px;
   margin-bottom: 20px;
-  color: #6fb9ff;
+  color: #1e517b;
   font-family: "Poppins", sans-serif;
 }
 .resume .resume-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
-  border-left: 2px solid #d43076;
+  border-left: 2px solid #1338be;
   position: relative;
 }
 .resume .resume-item h4 {
   line-height: 18px;
   font-size: 18px;
   font-weight: 600;
-  color: #2c4964;
+  color: #000000;
   margin-bottom: 10px;
 }
 .resume .resume-item h5 {
   font-size: 16px;
-  background: #e4ebf3;
+  background: #ffffff;
   padding: 5px 15px;
   display: inline-block;
   font-weight: 400;
@@ -552,8 +552,8 @@ section {
   border-radius: 50px;
   left: -9px;
   top: 0;
-  background: #fff;
-  border: 2px solid #d43076;
+  background: #ffffff;
+  border: 2px solid #1338be;
 }
 
 /*--------------------------------------------------------------
@@ -878,13 +878,13 @@ section {
   font-weight: 300;
   letter-spacing: 3px;
   text-transform: uppercase;
-  color: #d43076;
+  color: #000000; 
 }
 .contact .contact-about p {
   font-size: 14px;
   line-height: 24px;
   font-family: "Playfair Display", serif;
-  color: #3c6387;
+  color: #767676;
 }
 .contact .social-links {
   padding-bottom: 20px;
@@ -893,7 +893,7 @@ section {
   font-size: 18px;
   display: inline-block;
   background: #fff;
-  color: #d43076;
+  color: #3944bc;
   line-height: 0;
   padding: 8px 0;
   margin-right: 4px;
@@ -905,15 +905,15 @@ section {
   border: 1px solid #d43076;
 }
 .contact .social-links a:hover {
-  background: #d43076;
+  background: #1e517b;
   color: #fff;
 }
 .contact .info {
-  color: #5a656e;
+  color: #767676;
 }
 .contact .info i {
   font-size: 32px;
-  color: #d43076;
+  color: #000000;
   line-height: 0;
   margin-right: 15px;
 }
@@ -924,7 +924,7 @@ section {
 .contact .php-email-form .error-message {
   display: none;
   color: #fff;
-  background: #ed3c0d;
+  background: #1e517b;
   text-align: left;
   padding: 15px;
   font-weight: 600;
@@ -998,7 +998,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #088f8f;
+  background: #1e517b;
   padding: 24px 0;
   font-size: 14px;
   box-shadow: 0px 0 20px 0 rgba(0, 0, 0, 0.12);
